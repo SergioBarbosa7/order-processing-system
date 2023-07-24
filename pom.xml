@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>br.com.alura.oobj</groupId>
-    <artifactId>maven-teste</artifactId>
+    <artifactId>order-processing-system</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -24,6 +24,11 @@
             <groupId>com.fasterxml</groupId>
             <artifactId>jackson-xml-databind</artifactId>
             <version>0.6.2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.fasterxml.jackson.core</groupId>
+            <artifactId>jackson-databind</artifactId>
+            <version>2.12.5</version>
         </dependency>
 
     </dependencies>

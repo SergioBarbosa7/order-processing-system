@@ -1,7 +1,8 @@
-package br.com.alura.oobj;
+package br.com.reshi.orderprocessing.models;
 
 import java.util.List;
 
+//Classe responsavel por trazer o pedido completo com seus itens
 public class Pedido {
 
   private List<ItemPedido> itens;

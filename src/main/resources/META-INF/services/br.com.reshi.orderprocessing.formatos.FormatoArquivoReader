@@ -1,0 +1,3 @@
+br.com.reshi.orderprocessing.formatos.JsonFormatoArquivoReader
+br.com.reshi.orderprocessing.formatos.XmlFormatoArquivoReader
+br.com.reshi.orderprocessing.formatos.CsvFormatoArquivoReader
